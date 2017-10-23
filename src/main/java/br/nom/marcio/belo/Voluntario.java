@@ -2,6 +2,7 @@ package br.nom.marcio.belo;
 
 import java.math.BigDecimal;
 
+
 public class Voluntario  extends Funcionario
 {
 
